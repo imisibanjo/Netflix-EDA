@@ -65,7 +65,7 @@ netflix-eda/
 ## How to run
 
 ```bash
-git clone 
+git clone https://github.com/imisibanjo/Netflix-EDA.git
 cd netflix-eda
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
